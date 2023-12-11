@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "This post is for Amiel",
+      "datetime": "December 07, 2023 3:05:29 PM",
+      "body": "Fuck Amiel"
+    },
+    {
+      "id": "111",
+      "title": "This Post is for Yoav",
+      "datetime": "December 07, 2023 3:08:25 PM",
+      "body": "Yoav is Beseder"
+    },
+    {
+      "id": "11111",
+      "title": "Does my daddy love me?",
+      "datetime": "December 08, 2023 2:08:20 AM",
+      "body": "who knows right?"
+    },
+    {
+      "id": "111111",
+      "title": "what are diapers for",
+      "datetime": "December 09, 2023 3:42:16 PM",
+      "body": "baby \n"
+    }
+  ]
+}
